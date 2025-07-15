@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+vaderSentiment
+nltk
+matplotlib
+wordcloud
+praw
+feedparser
+scikit-learn
+plotly
