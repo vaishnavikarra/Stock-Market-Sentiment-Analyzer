@@ -18,10 +18,16 @@ Next day prediction for tsock movement with confidence
 Sector wise sentimnet aggregation- all sectors,company wise
 
 Results :
-<img width="802" height="399" alt="image" src="https://github.com/user-attachments/assets/d4fd06e6-c509-4627-a429-ac12a23e892f" />
-<img width="799" height="402" alt="image" src="https://github.com/user-attachments/assets/688e32d1-afee-4540-bb63-aa22d8f8f26a" />
-<img width="819" height="380" alt="image" src="https://github.com/user-attachments/assets/5565da02-0672-458c-8b1d-a25b438b0b31" />
+
+
 <img width="828" height="364" alt="image" src="https://github.com/user-attachments/assets/61a2f20a-8582-4de4-9cca-3937a5c09a6c" />
+
+<img width="819" height="380" alt="image" src="https://github.com/user-attachments/assets/5565da02-0672-458c-8b1d-a25b438b0b31" />
+
+<img width="799" height="402" alt="image" src="https://github.com/user-attachments/assets/688e32d1-afee-4540-bb63-aa22d8f8f26a" />
+
+<img width="802" height="399" alt="image" src="https://github.com/user-attachments/assets/d4fd06e6-c509-4627-a429-ac12a23e892f" />
+
 
 
 
